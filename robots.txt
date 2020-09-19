@@ -1,1 +1,1 @@
-Sitemap: https://biggthil.github.io/blog/sitemap.xml
+Sitemap: https://blog.nightmare.life/sitemap.xml
